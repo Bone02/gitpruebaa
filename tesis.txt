@@ -1,8 +1,12 @@
 Tesis de grado de TICs
-Universeidad Catòlica - Sede Essmeraldas
+Universeidad Católica - Sede Essmeraldas
 
 esme
 raldas
 
 
-Redacciòn del capìtulo 1
+Redacciòn del capítulo 1
+
+Redacciòn del capítulo 2
+	Análisis del sistema
+	Diseño del sistema 
