@@ -1,1 +1,9 @@
-ordenar matrices 2022
+ingresar el vector
+ordenar en forma ascendente 
+orden 1
+orden 2
+
+Codificando en c++
+funciòn1
+cuerpo de la funciòn
+fin de la funciòn
